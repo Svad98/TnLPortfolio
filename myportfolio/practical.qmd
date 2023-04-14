@@ -1,0 +1,21 @@
+---
+suppress-bibliography: true
+reference-location: margin
+citation-location: margin
+---
+
+# Overview
+
+In this section, I have outlined instances of putting the theory of my teaching philosophy and knowledge gained on effective lesson design into practice. 
+
+I begin with a description and showcasing of my initial attempt at creating an interactive teaching video of a key pedagogical strategy that I was keen on using to achieve my main goal as a teacher.
+
+- [Pedagogy: Teaching Strategy](pedagogy.qmd)
+
+Following this, I show my first design of a lesson plan (and associated materials) that was executed in a classroom of undergraduates (March 28th, 2023). This was a Microbiology class that had students both at the beginning and end of their undergraduate careers. 
+
+- [In-class teaching experience](teaching_experience.qmd)
+
+Lastly, I wrap this section up with an iteration of lesson design, except, this is an online module for a theoretically asynchronous class. The material in this module is different from the lesson plan but largely based on an expanded structure of the same. It built on principles from Engineering learning and Universal Design for Learning to ensure effective and diverse modes of learning for students
+
+- [Online Module Design](online_module.qmd)

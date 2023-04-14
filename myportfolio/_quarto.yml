@@ -1,0 +1,50 @@
+project:
+  type: website
+  preview:
+    port: 4000
+  
+
+website:
+  page-navigation: true
+  page-footer: "Copyright, Svetlana Djirackor, 2023"
+  reader-mode: true
+  title: "Portfolio"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: about.qmd
+      - text: "Philosophy of Teaching"
+        file: philosophy.qmd
+      - text: "Teaching Practical"
+        file: practical.qmd 
+      - text: "Reflection"
+        file: final_reflection.qmd
+
+  sidebar:
+    - title: "Philosophy of Teaching"
+      style: "docked"
+      search: true
+      background: dark
+      contents:
+        - philosophy.qmd
+        - initial_thoughts.qmd
+        - statement_teaching.qmd
+
+    - title: "Teaching Practical"
+      contents:
+        - practical.qmd
+        - pedagogy.qmd
+        - teaching_experience.qmd
+        - online_module.qmd
+    
+format:
+  html:
+    theme: sketchy
+    mainfont: lato
+    css: styles.css
+    toc: true
+
+
+

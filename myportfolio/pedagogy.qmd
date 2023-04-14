@@ -1,0 +1,25 @@
+---
+suppress-bibliography: true
+reference-location: margin
+citation-location: margin
+---
+
+# Pedagogy: Teaching Strategy
+
+Developing my teaching philosophy started from my main goal as an aspiring instructor:
+
+> Equipping students with the skills to _work through any problem or question_ regardless of their knowledge on the subject matter.
+
+Here, I selected a teaching strategy that I thought best suited this goal and created a 3-minute video with the following information:
+
+- The learning goal
+
+- The teaching strategy to address that learning goal
+
+- Demonstration of the strategy in a specific context 
+
+- References/ways to learn more about the strategy
+
+Enjoy!
+
+{{< video https://youtu.be/ZrDcNUKTdaI >}}

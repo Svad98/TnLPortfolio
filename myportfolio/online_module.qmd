@@ -1,0 +1,28 @@
+---
+suppress-bibliography: true
+reference-location: margin
+citation-location: margin
+---
+
+# Online Module Design
+
+In the new age of asynchronous and online education, it was important that I learned how to design an online module.
+
+Here, I used principles of engineering learning outlined in my [Statement of Teaching and Learning](statement_teaching.qmd) as well as [Universal Design for Learning](https://udlguidelines.cast.org) to design an online module using Canvas.
+
+In this online module, I repurposed some of my Lesson Plan for a different topic: Archaea.
+
+Through this module, I walk student through
+
+- The main objectives of the course
+
+- Quizzes to guide their pre-assignment reading 
+
+- Discussion Forums to increase participation despite asynchronicity
+
+- Current topics based on Video essays 
+
+- Summative assessments that test higher order thinking skills, in this case, proposing and defending the use of an archaeon in human disease, environmental conservation, or industry
+
+### [**Take a look!**](https://vai.instructure.com/courses/680/modules) 
+

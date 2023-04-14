@@ -1,0 +1,17 @@
+---
+suppress-bibliography: true
+reference-location: margin
+citation-location: margin
+---
+
+# Overview
+
+I have begun to understand that a key component to becoming an effective teacher is being able to articulate my  views on what it means to teach and learn. In so doing, I will be able to state what my goals are as a teacher and what I hope my students will gain from the classes they take with me.
+
+In this section, I begin by outlining my initial thoughts on teaching and learning, to really bring out the impact my educational background has had on my perception of learning. While many of my experiences have made me more empathetic to the struggles students may face in the classroom, they've also been key in highlighting the biases and points of ignorance that I would have missed had I not written this out. 
+
+- [Initial thoughts on Teaching and Learning](initial_thoughts.qmd)
+
+To conclude this section, I have my statement of teaching written out. This serves as a cohesive collection/balance between my experiences and knowledge gained. It acts as a "nod" to my past experiences, and articulation of the strategies I intend to use in class to ensure that my students become master innovators and thinkers.
+
+- [Statement of Teaching and Learning](statement_teaching.qmd)

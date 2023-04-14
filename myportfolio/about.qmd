@@ -1,0 +1,25 @@
+---
+title: "Svetlana Djirackor"
+image: Svetlana_Djirackor_headshot.png
+about: 
+    template: trestles
+    image-shape: round
+---
+
+Greetings and welcome to my Teaching Portfolio!
+
+## About me
+
+I am a Graduate Student at the Van Andel Institute Graduate School (VAIGS), located in Grand Rapids, Michigan, USA.
+
+My research is centered on defining the epigenetic mechanisms underlying the origins of Ovarian Cancers. 
+
+I have a passion for teaching and imparting complex knowledge in fun, creative, and interactive ways. My focus is not on the acquisition of knowledge itself, but on understanding how to access knowledge, process it, and apply it in innovative ways to solve problems.
+
+## What to expect
+
+A compilation of work I've done as a student learning how to teach, and as a practicing teacher.
+
+I recommend going through the sections in order, as this will provide a more sequential picture of my progress as an instructor. That is, from my initial thoughts right at the beginning of this journey, to practical presentations of what I have learned thus far and executed in a classroom.
+
+Enjoy!
