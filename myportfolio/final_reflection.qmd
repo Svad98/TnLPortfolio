@@ -1,5 +1,0 @@
----
-suppress-bibliography: true
-reference-location: margin
-citation-location: margin
----
