@@ -1,7 +1,9 @@
 ---
-title: "myportfolio"
+title: "Portfolio at a Glance"
 ---
 
-This is a Quarto website.
+## 1. [Home](about.qmd)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 2. [Philosophy of Teaching](philosophy.qmd)
+
+## 3. [Teaching Practical](practical.qmd)
